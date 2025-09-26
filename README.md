@@ -1,4 +1,24 @@
-# My_Wall_of_Innovations
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="150" height="180" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td>
+
+
+# 💼 Raguram Narayanaswamy
+* Product innovator | Product enhancement | UX Enthusiast | User Flow Testing Expert
+---
+* 📍 Location: Chennai, India
+* 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
+* 📞 Phone: +91 88701 80822
+* 🎓 Education: B.E - EIE (2015-2019)
+* 🏛️ St. Joseph's college of Engineering, Chennai
+
+ </tr>
+</table>
+
+# 🧑‍💻 My_Wall_of_Innovations
 My_Wall_of_Innovations A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. This repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, and product thinking.
 
 ### 1. Product innovation: [Just Click - AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
