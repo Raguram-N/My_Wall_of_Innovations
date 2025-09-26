@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="150" height="180" style="border-radius:10px;" alt="Raguram's Photo" />
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="155" height="185" style="border-radius:10px;" alt="Raguram's Photo" />
     </td>
     <td>
 
@@ -9,11 +9,11 @@
 # 💼 Raguram Narayanaswamy
 * Product innovator | Product enhancement | UX Enthusiast | User Flow Testing Expert
 ---
-* 📍 Location: Chennai, India
 * 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
 * 📞 Phone: +91 88701 80822
 * 🎓 Education: B.E - EIE (2015-2019)
 * 🏛️ St. Joseph's college of Engineering, Chennai
+* 📍 Location: Chennai, Tamil Nadu, India
 
  </tr>
 </table>
