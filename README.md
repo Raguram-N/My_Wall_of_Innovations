@@ -25,6 +25,7 @@ My_Wall_of_Innovations A curated showcase of my product innovations, UX enhancem
 ### 2. Product Enhancement: [Personalized Keyword Subscription - The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
 ### 3. Product Enhancement: [Tik-Tik - Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
 ### 4. Product Innovation: [Track the Game - Analyze, Adapt, Achieve > Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
-### 5. Coming Soon...⏳ 
+### 5.  Product Enhancement: [Care Partner - seamless and safe city travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
+### 6. Coming Soon...⏳ 
 
 
