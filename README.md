@@ -20,12 +20,14 @@
 
 # 🧑‍💻 My_Wall_of_Innovations
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. This repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, and product thinking.
-
+#### **“Problem → reveal opportunitie → spark innovation → build product → Enhance Productivity → Unlock market”**
+---
 ### 1. Product Innovation: [Just Click - AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
 ### 2. Product Enhancement: [Personalized Keyword Subscription - The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
 ### 3. Product Enhancement: [Tik-Tik - Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
 ### 4. Product Innovation: [Track the Game - Analyze, Adapt, Achieve > Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
 ### 5.  Product Enhancement: [Care Partner - seamless and safe city travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
 ### 6. Coming Soon...⏳ 
+
 
 
