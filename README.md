@@ -7,7 +7,7 @@
 
 
 # 💼 Raguram Narayanaswamy
-* Product innovator | Product enhancement | UX Enthusiast | User Flow Testing Expert
+* Product innovation | Product enhancement | UX Enthusiast | User Flow Testing Expert
 ---
 * 📧 Email: [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)
 * 📞 Phone: +91 88701 80822
