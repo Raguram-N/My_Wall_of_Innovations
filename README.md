@@ -26,8 +26,7 @@
 
 # 🧑‍💻 **My Wall of Innovations**
 
-*A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems.*  
-This repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to **user-centered design**, **problem-solving**, and **product thinking**.
+A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and knowledge in sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, and product thinking.
 
 > **✨ “Problem → Reveals Opportunity → Sparks Innovation → Builds Product → Enhances Productivity → Unlocks Market.”**
 
