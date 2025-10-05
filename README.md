@@ -78,7 +78,9 @@ You may **view and share** this repository **with proper credit**, but **commerc
 ## © **Copyright Notice**
 
 © 2025 **RAGURAM NARAYANASWAMY**  
-All rights reserved.  
+Part of the *Wall of Innovations* series.  
+All rights reserved.
+
 
 > Unauthorized copying, distribution, or reproduction of this content, in whole or in part, is strictly prohibited without prior written permission from the author.
 
