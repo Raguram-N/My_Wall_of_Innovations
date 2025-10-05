@@ -6,7 +6,7 @@
     <td style="vertical-align:top; padding-left:15px;">
 
 # 💼 **Raguram Narayanaswamy**
-> **Product Innovation | Product Enhancement | UX Enthusiast | User Flow Testing Expert** 
+> **Product Innovation | Product Enhancement | UX Research | User Flow Testing Expert** 
 ---
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)  
 📞 **Phone:** +91 88701 80822  
