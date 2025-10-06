@@ -1,14 +1,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="165" height="285" style="border-radius:10px;" alt="Raguram's Photo" />
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="185" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
     </td>
     <td style="vertical-align:top; padding-left:15px;">
 
 # 💼 **Raguram Narayanaswamy**
-> **Product Innovation | Product Enhancement | UX Research | User Flow Testing Expert** 
+> **Product Innovation | Product Enhancement | UX Research | User Flow Testing Expert | User-centric**
+> - **2+ years of experience @ Amazon Development Centre**
 ---
-📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)  
+📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
 📞 **Phone:** +91 88701 80822  
 🎓 **Education:** B.E - EIE (2015–2019)  
 🏛️ **College:** St. Joseph's College of Engineering, Chennai  
