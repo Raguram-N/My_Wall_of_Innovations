@@ -60,7 +60,8 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 > **Thank you for visiting! 🙂<br>
-I truly appreciate your time and interest...**
+I truly appreciate your time and interest.<br>
+I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow.**
 
 
 ---
