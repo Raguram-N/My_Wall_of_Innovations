@@ -29,8 +29,6 @@
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and knowledge in sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, and product thinking.
 
-> **✨ “Problem → Reveals Opportunity → Sparks Innovation → Build Products → Enhance Productivity → Unlock Market.”**
-
 ---
 
 ## 🚀 **Projects & Case Studies**
@@ -56,8 +54,8 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ### 7️⃣ Coming Soon... ⏳  
 > *More innovations in progress – stay tuned!*
 
- <p align="center">
-  <img src="generated-image flow.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+<p align="center">
+  <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
  </p>
 
   
@@ -95,3 +93,6 @@ All rights reserved.
 > Unauthorized copying, distribution, or reproduction of this content, in whole or in part, is strictly prohibited without prior written permission from the author.
 
 ---
+
+> **Thank you for visiting! 🙂<br>
+I truly appreciate your time and interest in my work.**
