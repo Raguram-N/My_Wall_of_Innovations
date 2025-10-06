@@ -58,7 +58,11 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
   <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
  </p>
 
-  
+
+> **Thank you for visiting! 🙂<br>
+I truly appreciate your time and interest**
+
+
 ---
 
 
@@ -94,5 +98,3 @@ All rights reserved.
 
 ---
 
-> **Thank you for visiting! 🙂<br>
-I truly appreciate your time and interest in my work.**
