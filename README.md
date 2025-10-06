@@ -6,7 +6,7 @@
     <td style="vertical-align:top; padding-left:15px;">
 
 # 💼 **Raguram Narayanaswamy**
-> **Product Innovation | Product Enhancement | UX Research | User Flow Testing Expert | User-centric**
+> **Product Management | Product Enhancement | UX Research | UX Design | User Flow Testing Expert**
 > - **2+ years of experience @ Amazon Development Centre**
 ---
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
