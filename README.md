@@ -34,7 +34,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ## 🚀 **Projects & Case Studies**
 
 ### 1️⃣ Product Innovation: [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
-> *AI-powered manual testing automation tool that reads test steps, executes Selenium-based tests, and generates intelligent reports.*
+> *AI-powered Software testing tool that reads test steps, executes Selenium-based tests, and generates intelligent reports.*
 
 ### 2️⃣ Product Enhancement: [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
 > *A smart newspaper personalization concept that lets readers subscribe to their favorite topics, not just sections.*
