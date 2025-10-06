@@ -60,7 +60,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 > **Thank you for visiting! 🙂<br>
-I truly appreciate your time and interest**
+I truly appreciate your time and interest...**
 
 
 ---
