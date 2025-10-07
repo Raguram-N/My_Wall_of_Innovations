@@ -56,8 +56,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
-     <img src="Wall banner.png" width="60%" height="100" style="border-radius:10px;" alt="Raguram's Photo" />
-  </p>
+       </p>
 
 
 > **Thank you for visiting! 🙂<br>
