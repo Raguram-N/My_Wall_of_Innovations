@@ -21,7 +21,7 @@
 
 ---
  <p align="center">
-  <img src="e06f81a5-a4ff-42e8-a675-939f54bd92e1.png" width="75%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+  <img src="e06f81a5-a4ff-42e8-a675-939f54bd92e1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
 </p
 
 
