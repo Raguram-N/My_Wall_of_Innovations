@@ -52,7 +52,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 > *A UX concept for YouTube that predicts MB usage per video quality and lets users reserve data for emergencies.*
 
 ### 7️⃣ Coming Soon... ⏳  
-> *More innovations in progress – stay tuned!*
+> *More in progress – stay tuned!*
 
 <p align="center">
   <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
