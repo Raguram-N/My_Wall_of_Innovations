@@ -33,26 +33,43 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 ## 🚀 **Projects & Case Studies**
 
-### 1️⃣ Product Innovation: [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
-> *AI-powered Software testing tool that reads test steps, executes Selenium-based tests, and generates intelligent reports.*
+### 1️⃣ [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
+> *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
 
-### 2️⃣ Product Enhancement: [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
-> *A smart newspaper personalization concept that lets readers subscribe to their favorite topics, not just sections.*
 
-### 3️⃣ Product Enhancement: [Tik-Tik – Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
-> *A UX-driven delivery timer system ensuring transparency between customers and delivery partners.*
+### 2️⃣ [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
+> *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
 
-### 4️⃣ Product Innovation: [Track the Game – Analyze, Adapt, Achieve → Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
-> *A data-analytics-driven sports performance tracker enhancing player strategy and growth.*
 
-### 5️⃣ Product Enhancement: [Care Partner – Seamless & Safe City Travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
-> *A multi-stop ride management system designed for safety, comfort, and care-based navigation.*
 
-### 6️⃣ Product Enhancement: [Conscious MB – Data-Aware Video Streaming](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
-> *A UX concept for YouTube that predicts MB usage per video quality and lets users reserve data for emergencies.*
+### 3️⃣ [Tik-Tik – Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
+> *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
 
-### 7️⃣ Coming Soon... ⏳  
-> *More in progress – stay tuned!*
+
+
+### 4️⃣ [Track the Game – Analyze, Adapt, Achieve → Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
+> *A data-driven sports performance tracker that analyzes player metrics to enhance strategy, adaptability, and competitive growth.*
+
+
+
+### 5️⃣ [Care Partner – Seamless & Safe City Travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
+> *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
+
+
+
+### 6️⃣ [Conscious MB – Data-Aware Video Streaming](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
+> *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
+
+
+
+### 7️⃣ [Smart Backup Address – For Delivery](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
+> *A UX concept that introduces a secondary address (nearby- within 100m radius)  system for e-commerce — ensuring delivery success even if the primary recipient is unavailable .*
+
+
+
+### 8️⃣ Coming Soon… ⏳  
+> *More innovations in progress — stay tuned!*
+
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
