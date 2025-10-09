@@ -63,7 +63,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 ### 7️⃣ [Smart Backup Address – For Delivery](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
-> *A UX concept that introduces a secondary address (nearby- within 100m radius)  system for e-commerce — ensuring delivery success even if the primary recipient is unavailable .*
+> *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
 
 
 
