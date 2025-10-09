@@ -67,8 +67,8 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 8️⃣ [Software Development Life Cycles (SDLC) - The story](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
-> *A story-based guide to software development cycles, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.” 🍽️✨*
+### 8️⃣ [Software Development Life Cycle (SDLC) - The story](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
+> *A story-based guide to software Life development cycle, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.”*
 
 
 
