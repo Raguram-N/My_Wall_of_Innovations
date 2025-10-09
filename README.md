@@ -34,36 +34,36 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ## 🚀 **Projects & Case Studies**
 
 ### 1️⃣ [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
-> *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
+> Product Innovation: *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
 
 
 ### 2️⃣ [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
-> *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
+> Product Enhancement: *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
 
 
 
 ### 3️⃣ [Tik-Tik – Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
-> *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
+> Product Enhancement: *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
 
 
 
 ### 4️⃣ [Track the Game – Analyze, Adapt, Achieve → Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
-> *A data-driven sports performance tracker that analyzes player metrics to enhance strategy, adaptability, and competitive growth.*
+>  Product Innovation: *A data-driven sports performance tracker that analyzes player metrics to enhance strategy, adaptability, and competitive growth.*
 
 
 
 ### 5️⃣ [Care Partner – Seamless & Safe City Travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
-> *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
+> Product Enhancement: *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
 
 
 
 ### 6️⃣ [Conscious MB – Data-Aware Video Streaming](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
-> *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
+> Product Enhancement: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
 
 
 
 ### 7️⃣ [Smart Backup Address – For Delivery](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
-> *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
+> Product Enhancement: *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
 
 
 
@@ -72,7 +72,10 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 9️⃣ Coming Soon… ⏳  
+### 9️⃣ [NearMind - Location Based Smart Reminder App](https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md)
+>  Product Innovation: *A mobile-first, GPS-powered smart reminder app that notifies users exactly when they reach the location of their task — ideal for groceries, medicines, exams, office errands, and personal pickups.*
+
+### 🔟 Coming Soon… ⏳
 > *More innovations in progress — stay tuned!*
 
 
