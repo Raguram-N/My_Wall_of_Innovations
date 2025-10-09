@@ -67,13 +67,19 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 8️⃣ Coming Soon… ⏳  
+### 8️⃣ [SDLC - The story](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
+> *A story-based guide to software development cycles, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.” 🍽️✨*
+
+
+
+### 9️⃣ Coming Soon… ⏳  
 > *More innovations in progress — stay tuned!*
 
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
        </p>
+
 
 
 > **Thank you for visiting! 🙂<br>
