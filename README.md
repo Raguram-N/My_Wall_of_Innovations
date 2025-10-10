@@ -86,7 +86,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 1️⃣2️⃣ Coming Soon… ⏳
+### 1️⃣2️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
