@@ -91,13 +91,13 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 1️⃣3️⃣[power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
+### 1️⃣3️⃣[Power= BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
 > Skill Showcase: *This project highlights my business analysis and data visualization skills using Power BI.
 I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making.*
 
 
 ### 1️⃣4️⃣[A/B Testing - the story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
-> Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better, helping optimize user experience and drive decisions.*
+> Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better — optimizing user experience and driving decisions.*
 
 
 ### 1️⃣5️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
