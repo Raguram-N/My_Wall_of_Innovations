@@ -68,14 +68,17 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 ### 8️⃣ [Software Development Life Cycle (SDLC) - The story](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
-> *A story-based guide to software Life development cycle, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.”*
+> Learning Series: *A story-based guide to software Life development cycle, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.”*
 
 
 
 ### 9️⃣ [NearMind - Location Based Smart Reminder App](https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md)
->  Product Innovation: *A mobile-first, GPS-powered smart reminder app that notifies users exactly when they reach the location of their task — ideal for groceries, medicines, exams, office errands, and personal pickups.*
+> Product Innovation: *A mobile-first, GPS-powered smart reminder app that notifies users exactly when they reach the location of their task — ideal for groceries, medicines, exams, office errands, and personal pickups.*
 
-### 🔟 Coming Soon… ⏳
+### 1️⃣0️⃣ [Software Development Life Cycle (SDLC) methodologies - Agile vs Waterfall](https://github.com/Raguram-N/Agile-vs-Waterfall/blob/main/README.md)
+> Learning Series: *An intuitive story-driven explanation of Agile and Waterfall SDLC methodologies, using a real-world car journey analogy to simplify software development concepts.*
+
+### 1️⃣1️⃣ Coming Soon… ⏳
 > *More innovations in progress — stay tuned!*
 
 
