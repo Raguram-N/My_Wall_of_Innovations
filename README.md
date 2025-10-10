@@ -91,7 +91,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 1️⃣3️⃣[Power= BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
+### 1️⃣3️⃣[Power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
 > Skill Showcase: *This project highlights my business analysis and data visualization skills using Power BI.
 I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making.*
 
