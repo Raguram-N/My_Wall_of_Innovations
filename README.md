@@ -93,7 +93,7 @@ The purpose of this testing extends beyond identifying functional bugs — refle
 
 
 
-### 1️⃣3️⃣[Business Analysis - power BI](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
+### 1️⃣3️⃣[power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
 > This project highlights my business analysis and data visualization skills using Power BI.
 I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making and providing clear visibility into business performance metrics.
 
