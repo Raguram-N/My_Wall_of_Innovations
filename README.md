@@ -87,8 +87,8 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 ### 1️⃣2️⃣ [My work as QA - Buggy Car Rating Web Application](https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md)
->This document showcases my software testing expertise through a detailed evaluation of the Buggy Car Rating Web Application (https://buggy.justtestit.org/).
-The purpose of this testing extends beyond identifying functional bugs—it focuses on ensuring a seamless, intuitive, and user-friendly experience for end users, reflecting a customer-centric approach to quality assurance.
+>This document showcases my software testing expertise through a detailed evaluation of the Buggy Car Rating Web Application.
+The purpose of this testing extends beyond identifying functional bugs — reflecting a customer-centric approach to quality assurance.
 
 
 
