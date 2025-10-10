@@ -100,7 +100,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better — optimizing user experience and driving decisions.*
 
 
-### 1️⃣5️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
+### 1️⃣5️⃣[User Acceptance Testing (UAT) – The Story](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md)
+> Learning Series: *A story-driven explanation of User Acceptance Testing (UAT). This project demonstrates how UAT ensures that software meets business requirements and end-user expectations, validating the final outcome before deployment.*
+
+
+### 1️⃣6️⃣[Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
