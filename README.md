@@ -75,11 +75,19 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ### 9️⃣ [NearMind - Location Based Smart Reminder App](https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md)
 > Product Innovation: *A mobile-first, GPS-powered smart reminder app that notifies users exactly when they reach the location of their task — ideal for groceries, medicines, exams, office errands, and personal pickups.*
 
+
 ### 1️⃣0️⃣ [Software Development Life Cycle (SDLC) methodologies - Agile vs Waterfall](https://github.com/Raguram-N/Agile-vs-Waterfall/blob/main/README.md)
 > Learning Series: *An intuitive story-driven explanation of Agile and Waterfall SDLC methodologies, using a real-world car journey analogy to simplify software development concepts.*
 
-### 1️⃣1️⃣ Coming Soon… ⏳
-> *More innovations in progress — stay tuned!*
+
+
+### 1️⃣1️⃣ [Lets Debug AI - Artificial intelligence enabling human potential](https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md)
+> Learning Series: *A story-driven scenario demonstrating how AI can assist humans in achieving their goals, while human skill and decision-making remain essential. “AI enables, humans excel.”*
+
+
+
+### 1️⃣2️⃣ Coming Soon… ⏳
+> *More in progress — stay tuned!*
 
 
 <p align="center">
