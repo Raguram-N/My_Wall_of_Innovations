@@ -31,7 +31,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 ---
 
-## 🚀 **Projects & Case Studies**
+## 🚀 Projects, Learning & Case Studies
 
 ### 1️⃣ [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
 > Product Innovation: *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
