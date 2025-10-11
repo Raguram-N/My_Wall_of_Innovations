@@ -107,7 +107,12 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *Explore the core principles that make designs visually balanced, intuitive, and accessible to all users.*
 
 
-### 1️⃣7️⃣[Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
+### 1️⃣7️⃣[Fundamentals of Architecture - The backbone of every well-structured software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
+> Learning Series: *Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
+
+
+
+### 1️⃣8️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
