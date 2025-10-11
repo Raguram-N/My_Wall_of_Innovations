@@ -103,7 +103,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *A story-driven explanation of User Acceptance Testing (UAT). This project demonstrates how UAT ensures that software meets business requirements and end-user expectations, validating the final outcome before deployment.*
 
 
-### 1️⃣6️⃣[Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
+### 1️⃣6️⃣[Design principles - Turning Creativity into Usability](https://github.com/Raguram-N/design-principles/blob/main/README.md)
+> Learning Series: *Explore the core principles that make designs visually balanced, intuitive, and accessible to all users.*
+
+
+### 1️⃣7️⃣[Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
