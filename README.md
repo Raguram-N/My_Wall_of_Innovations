@@ -6,7 +6,7 @@
     <td style="vertical-align:top; padding-left:15px;">
 
 # 💼 **Raguram Narayanaswamy**
-> **Product Management | Product Enhancement | UX Research | UX Design | User Flow Testing Expert**
+> **Product Management | Product Enhancement | UX Research | UX Design | User Acceptance Testing**
 > - **2+ years of experience @ Amazon Development Centre**
 ---
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
@@ -25,8 +25,7 @@
 </p
 
 
-# 🧑‍💻 **My Wall of Innovations**
-
+# 🧑‍💻 **My Wall of Innovations:**
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and knowledge in sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
 ---
