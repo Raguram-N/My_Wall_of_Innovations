@@ -90,24 +90,24 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 1️⃣3️⃣[Power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
+### 1️⃣3️⃣ [Power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
 > Skill Showcase: *This project highlights my business analysis and data visualization skills using Power BI.
 I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making.*
 
 
-### 1️⃣4️⃣[A/B Testing - the story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
+### 1️⃣4️⃣ [A/B Testing - the story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
 > Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better — optimizing user experience and driving decisions.*
 
 
-### 1️⃣5️⃣[User Acceptance Testing (UAT) – The Story](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md)
+### 1️⃣5️⃣ [User Acceptance Testing (UAT) – The Story](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md)
 > Learning Series: *A story-driven explanation of User Acceptance Testing (UAT). This project demonstrates how UAT ensures that software meets business requirements and end-user expectations, validating the final outcome before deployment.*
 
 
-### 1️⃣6️⃣[Design principles - Turning Creativity into Usability](https://github.com/Raguram-N/design-principles/blob/main/README.md)
+### 1️⃣6️⃣ [Design principles - Turning Creativity into Usability](https://github.com/Raguram-N/design-principles/blob/main/README.md)
 > Learning Series: *Design principles are the rules of thumb that make interfaces visually appealing, easy to navigate, and enjoyable to use — without confusing the user.*
 
 
-### 1️⃣7️⃣[Fundamentals of Architecture - The backbone of every well-structured software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
+### 1️⃣7️⃣ [Fundamentals of Architecture - The backbone of Software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
 > Learning Series: *Understanding the fundamentals of Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
 
 
