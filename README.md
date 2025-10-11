@@ -104,11 +104,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 
 
 ### 1️⃣6️⃣[Design principles - Turning Creativity into Usability](https://github.com/Raguram-N/design-principles/blob/main/README.md)
-> Learning Series: *Explore the core principles that make designs visually balanced, intuitive, and accessible to all users.*
+> Learning Series: *Design principles are the rules of thumb that make interfaces visually appealing, easy to navigate, and enjoyable to use — without confusing the user.*
 
 
 ### 1️⃣7️⃣[Fundamentals of Architecture - The backbone of every well-structured software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
-> Learning Series: *Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
+> Learning Series: *Understanding the fundamentals of Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
 
 
 
