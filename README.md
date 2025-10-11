@@ -124,29 +124,25 @@ I’m currently open to work and excited to explore new opportunities where I ca
 
 ## ⚠️ **Disclaimer**
 
-This repository and its contents represent **independent product concepts, UX enhancements, and prototypes** created by **Raguram Narayanaswamy**.  
-These works are intended solely for **educational, portfolio, and demonstration purposes**.  
+This repository and its contents represent **independent product concepts, UX enhancements, and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**.  
 
 They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
-All trademarks, brand names, and product names belong to their respective owners.
+> All trademarks, brand names, and product names belong to their respective owners.
 
 ---
 
 ## ⚖️ **License**
 
-This work is protected under the  
-**Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
+This work is protected under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
 
-You may **view and share** this repository **with proper credit**, but **commercial use, modification, or redistribution** are **not permitted**.  
-
+> You may **view and share** this repository **with proper credit**, but **commercial use, modification, or redistribution** are **not permitted**.  
 🔗 [View Full License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
 ## © **Copyright Notice**
 
-© 2025 **RAGURAM NARAYANASWAMY**  
-Part of the *Wall of Innovations* series.  
+© 2025 **RAGURAM NARAYANASWAMY**   
 All rights reserved.
 
 
