@@ -116,7 +116,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *Interactive Design (IxD) focuses on creating the relationship between a user and a digital product, making sure that interactions with apps, websites, or dashboards are intuitive, efficient, and enjoyable.*
 
 
-### 1️⃣9️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
+### 1️⃣9️⃣ [All-Time Low Pass - Predict. Claim. Save](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
+> UX Innovation for Business Growth: *A gamified price protection concept that rewards users for predicting price drops — turning everyday shopping into an engaging, loyalty-driven experience.* 
+
+
+### 2️⃣0️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
