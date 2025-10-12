@@ -112,7 +112,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 
 
 
-### 1️⃣8️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
+### 1️⃣8️⃣ [Principles of Interactive Design - how users engage with digital interfaces](https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md)
+> Learning Series: *Interactive Design (IxD) focuses on creating the relationship between a user and a digital product, making sure that interactions with apps, websites, or dashboards are intuitive, efficient, and enjoyable.*
+
+
+### 1️⃣9️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
 > *More in progress — stay tuned!*
 
 
