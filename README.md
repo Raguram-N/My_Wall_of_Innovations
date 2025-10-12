@@ -21,11 +21,11 @@
 
 ---
  <p align="center">
-  <img src="e06f81a5-a4ff-42e8-a675-939f54bd92e1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+  <img src="wall of innovation.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
 </p
 
 
-# 🧑‍💻 **My Wall of Innovations:**
+
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and knowledge in sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
 ---
