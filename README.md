@@ -107,7 +107,7 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *Design principles are the rules of thumb that make interfaces visually appealing, easy to navigate, and enjoyable to use — without confusing the user.*
 
 
-### 1️⃣7️⃣ [Fundamentals of Architecture - The backbone of Software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
+### 1️⃣7️⃣ [Fundamentals of Architecture - Pillars of Software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
 > Learning Series: *Understanding the fundamentals of Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
 
 
