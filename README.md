@@ -37,12 +37,12 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 ### 2️⃣ [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
-> Product Enhancement: *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
+> UX Innovation for Business Growth: *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
 
 
 
 ### 3️⃣ [Tik-Tik – Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
-> Product Enhancement: *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
+> UX Innovation for Business Growth: *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
 
 
 
@@ -52,17 +52,17 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 ### 5️⃣ [Care Partner – Seamless & Safe City Travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
-> Product Enhancement: *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
+> UX Innovation for Business Growth: *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
 
 
 
 ### 6️⃣ [Conscious MB – Data-Aware Video Streaming](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
-> Product Enhancement: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
+> UX Innovation for Business Growth: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
 
 
 
 ### 7️⃣ [Smart Backup Address – For Delivery](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
-> Product Enhancement: *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
+> UX Innovation for Business Growth: *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
 
 
 
