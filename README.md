@@ -120,7 +120,7 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > UX Innovation for Business Growth: *A gamified price protection concept that rewards users for predicting price drops — turning everyday shopping into an engaging, loyalty-driven experience.* 
 
 
-### 2️⃣0️⃣ [Smart play - For Elders](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md)
+### 2️⃣0️⃣ [Link2Watch – Senior-Friendly Streaming](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md)
 >  UX Innovation for Business Growth: *Innovation that bridges the tech gap for elderly parents, allowing family members to send a movie via link that plays instantly on TV — “Send a link, share a moment""*
 
 
