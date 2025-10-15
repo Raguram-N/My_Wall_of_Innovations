@@ -145,7 +145,7 @@ I’m currently open to work and excited to explore new opportunities where I ca
 
 ## ⚠️ **Disclaimer**
 
-This repository and its contents represent **independent product concepts, UX enhancements, and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
+This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
 > All trademarks, brand names, and product names belong to their respective owners.
 
 ---
