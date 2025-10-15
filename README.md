@@ -6,7 +6,7 @@
     <td style="vertical-align:top; padding-left:15px;">
 
 # 💼 **Raguram Narayanaswamy**
-**Product Management | Product Enhancement | UX Research | UX Design | User Acceptance Testing**
+**Product Innovation | Product Enhancement | UX Research | User Acceptance Testing**                                             
 > - **2+ years of experience @ Amazon Development Centre** 
 > - **1+ years Freelance Product Design & UX Research**
 ---
