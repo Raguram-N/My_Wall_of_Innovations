@@ -8,7 +8,7 @@
 # 💼 **Raguram Narayanaswamy**
 **Product Innovation | Product Enhancement | UX Research | User Acceptance Testing**                                             
 > - **2+ years of experience at Amazon Development Centre** 
-> - **1+ years Freelance Product Design & UX Research**
+> - **1+ year Freelance Product Design & UX Research**
 ---
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
 📞 **Phone:** +91 88701 80822  
@@ -27,7 +27,7 @@
 
 
 
-A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and knowledge in sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
+A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and an understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
 ---
 
