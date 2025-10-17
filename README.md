@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="155" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
     </td>
     <td style="vertical-align:top; padding-left:15px;">
 
