@@ -29,6 +29,22 @@
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and an understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
+<table>
+  <tr>
+    <td>
+      
+### 🧩Skills:
+      
+- **Research & Analysis:** User Research **|** Market Insights **|** Data Interpretation **|** Behavioral Psychology  
+- **Design & UX:** Prototyping **|** Usability Testing **|** Journey Mapping **|** Wireframing  
+- **Product & Strategy:** Product Thinking **|** Growth Experimentation **|** Problem Solving **|** Business Impact Analysis  
+- **Tools & Tech:** Excel **|** Power BI **|** Selenium **|** Design Systems **|** A/B Testing
+
+
+</td>
+  </tr>
+</table>
+
 ---
 
 ## 🚀 Projects, Learnings & Case Studies
