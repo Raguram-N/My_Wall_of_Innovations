@@ -53,7 +53,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 3️⃣ [Tik-Tik – Smart Timer Delivery System](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
+### 3️⃣ [Tik-Tik – Smart Timer Delivery System (Amazon last mile)](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
 > UX Innovation for Business Growth: *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
 
 
@@ -63,17 +63,17 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 5️⃣ [Care Partner – Seamless & Safe City Travel](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
+### 5️⃣ [Care Partner – Seamless & Safe City Travel (Rapido)](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
 > UX Innovation for Business Growth: *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
 
 
 
-### 6️⃣ [Conscious MB – Data-Aware Video Streaming](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
+### 6️⃣ [Conscious MB – Data-Aware Video Streaming(Youtube)](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
 > UX Innovation for Business Growth: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
 
 
 
-### 7️⃣ [Smart Backup Address – For Delivery](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
+### 7️⃣ [Smart Backup Address – For Delivery (Amazon last mile)](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
 > UX Innovation for Business Growth: *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
 
 
@@ -128,11 +128,11 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *Interactive Design (IxD) focuses on creating the relationship between a user and a digital product, making sure that interactions with apps, websites, or dashboards are intuitive, efficient, and enjoyable.*
 
 
-### 1️⃣9️⃣ [All Time Low Pass - Predict, Claim, Save](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
+### 1️⃣9️⃣ [All Time Low Pass - Predict, Claim, Save (Amazon e-Commerce)](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
 > UX Innovation for Business Growth: *A gamified price protection concept that rewards users for predicting price drops — turning everyday shopping into an engaging, loyalty-driven experience.* 
 
 
-### 2️⃣0️⃣ [Link2Watch – Friendly Streaming](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md)
+### 2️⃣0️⃣ [Link2Watch – Friendly Streaming (Netflix)](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md)
 >  UX Innovation for Business Growth: *Innovation that bridges the tech gap for elderly parents, allowing family members to send a movie via link that plays instantly on TV — “Send a link, share a moment""*
 
 
