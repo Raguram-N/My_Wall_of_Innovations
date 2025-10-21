@@ -48,7 +48,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 > Product Innovation: *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
 
 
-### 2️⃣ [Personalized Keyword Subscription – The Hindu](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
+### 2️⃣ [Personalized Keyword Subscription – The Hindu e-Newspaper](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
 > UX Innovation for Business Growth: *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
 
 
