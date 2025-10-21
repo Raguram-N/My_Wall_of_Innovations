@@ -27,7 +27,7 @@
 
 
 
-A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and an understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
+A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
 
       
