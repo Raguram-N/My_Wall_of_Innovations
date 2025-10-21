@@ -107,7 +107,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making.*
 
 
-### 1️⃣4️⃣ [A/B Testing - the story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
+### 1️⃣4️⃣ [A/B Testing - The story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
 > Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better — optimizing user experience and driving decisions.*
 
 
