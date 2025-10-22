@@ -68,7 +68,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-### 6️⃣ [Conscious MB – Data-Aware Video Streaming(Youtube)](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
+### 6️⃣ [Conscious MB – Data-Aware Video Streaming (Youtube)](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
 > UX Innovation for Business Growth: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
 
 
