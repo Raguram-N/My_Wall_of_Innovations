@@ -7,7 +7,7 @@
 
 # 💼 **Raguram Narayanaswamy**
 **Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
-> - **2+ years of experience at Amazon, specializing in product testing & validation.** 
+> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
 > - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
 ---
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
