@@ -32,11 +32,17 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
       
 #### **🧩Skills:**      
-- **Research & Analysis:** User Research **|** Market Insights **|** Data Interpretation **|** Behavioral Psychology  
-- **Design & UX:** Prototyping **|** Usability Testing **|** Journey Mapping **|** Wireframing  
-- **Product & Strategy:** Product Thinking **|** Growth Experimentation **|** Problem Solving **|** Business Impact Analysis  
-- **Tools & Tech:** Excel **|** Power BI **|** Selenium **|** Design Systems **|** A/B Testing
+- 🔍 **Research & Analysis:**
+User Research | Market Insights | Data Interpretation | Behavioral Psychology
 
+- 🎨 **Design & UX:**
+Wireframing | Journey Mapping | Prototyping | Usability Testing | UX Case Studies
+
+- ⚙️ **Product & Strategy:**
+Product Thinking | Growth Experiments | Problem Solving | Business Impact Analysis
+
+- 🧠 **Tools & Tech:**
+Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
 
 
 
