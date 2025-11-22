@@ -102,7 +102,7 @@ All rights reserved.
 
 ---
 
-# Author
+## 👤 Crafted By
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ All rights reserved.
 
 ---
 
-## **Contact**
+## 🌐 **Let’s Connect**
 
 📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
 📞 **Phone:** +91 88701 80822  
