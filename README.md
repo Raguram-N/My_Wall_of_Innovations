@@ -66,6 +66,8 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 
 # 🚀 Projects, Case Studies & Product Innovations
 
+<div align="center">
+  
 | Project | Description | 🔗Link |
 |--------|-------------|------|
 | **1️⃣ Just Click – AI Manual Tester** | AI-powered testing engine that reduces manual effort by **70%**. | [View](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md) |
@@ -94,10 +96,12 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 
 
 <p align="center">
-  <img src="3.png" width="100%" height="380" style="border-radius:10px;" />
+  <img src="3.png" width="90%" height="350" style="border-radius:10px;" />
 </p>
 
+</div>
 
+---
 
 **Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow together.**
 
