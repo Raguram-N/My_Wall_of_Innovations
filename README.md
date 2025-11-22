@@ -75,10 +75,16 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-
 **Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can learn, contribute, and grow together.**
 
 </div>
+
+---
+
+
+## 💬 I’d love to hear your thoughts!  
+> ✨ **Share your feedback** [here](https://forms.gle/2MKfZXjJSSVYaWAx7).
+
 
 ---
 
