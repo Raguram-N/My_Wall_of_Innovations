@@ -63,6 +63,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) |
 | **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) |
 
+---
 
 <p align="center">
   <img src="3.png" width="85%" height="280" style="border-radius:10px;" />
@@ -71,7 +72,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 
-**Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow together.**
+**Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can learn, contribute, and grow together.**
 
 </div>
 
