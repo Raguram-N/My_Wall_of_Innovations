@@ -44,9 +44,13 @@ Product Thinking | Growth Experiments | Problem Solving | Business Impact Analys
 - 🧠 **Tools & Tech:**
 Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
 
+<p align="center">
+     <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+       </p>
 
 
 ---
+
 
 ## 🚀 Projects, Learnings & Case Studies
 
@@ -129,7 +133,6 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 > Learning Series: *Understanding the fundamentals of Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
 
 
-
 ### 1️⃣8️⃣ [Principles of Interactive Design - how users engage with digital interfaces](https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md)
 > Learning Series: *Interactive Design (IxD) focuses on creating the relationship between a user and a digital product, making sure that interactions with apps, websites, or dashboards are intuitive, efficient, and enjoyable.*
 
@@ -147,14 +150,17 @@ I transformed raw datasets into insightful, interactive dashboards, enabling dat
 
 
 <p align="center">
-     <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
-       </p>
 
 
+  
+  <img src="3.png" width="100%" height="350" style="border-radius:10px;" alt="Raguram's Photo" />
+</p
 
-> **Thank you for visiting! 🙂<br>
+**Thank you for visiting! 🙂<br>
 I truly appreciate your time and interest.<br>
 I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow.**
+
+ 
 
 
 ---
