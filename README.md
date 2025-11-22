@@ -11,25 +11,24 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 <img src="title banner.4.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
 
+--- 
+
+<div align="center">
        
-### **Core Skills:**   
+## **🧩 Core Skills:**   
 
-
-- 🔍 **Research & Analysis:**
-User Research | Market Insights | Data Interpretation | Behavioral Psychology
-- 🎨 **Design & UX:**
-Wireframing | Journey Mapping | Prototyping | Usability Testing | UX Case Studies
-- ⚙️ **Product & Strategy:**
-Product Thinking | Growth Experiments | Problem Solving | Business Analysis
-- 🧠 **Tools & Tech:**
-Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
-
+| **Category** | **Skills** |
+|--------------|------------|
+| 🔍 **Research & Analysis** | User Research • Market Insights • Data Interpretation • Behavioral Psychology |
+| 🎨 **Design & UX** | Wireframing • Journey Mapping • Prototyping • Usability Testing • UX Case Studies |
+| ⚙️ **Product & Strategy** | Product Thinking • Growth Experiments • Problem Solving • Business Analysis |
+| 🧠 **Tools & Tech** | Excel • Power BI • Selenium • Figma • Jira • TestRail • A/B Testing • Design Systems |
 
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
        </p>
-
+</div>
 
 ---
 <div align="center">
