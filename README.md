@@ -66,129 +66,30 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 
 # 🚀 Projects, Case Studies & Product Innovations
 
-## 1️⃣ Just Click – AI Manual Tester  
-An AI-powered testing engine that automates repetitive QA tasks and reduces manual effort by 70%.  
-🔗 https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md  
+| Project | Description | 🔗Link |
+|--------|-------------|------|
+| **1️⃣ Just Click – AI Manual Tester** | AI-powered testing engine that reduces manual effort by **70%**. | [View](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md) |
+| **2️⃣ Keyword Subscription – epaper** | Lets readers subscribe to keywords for personalized news. | [View](https://github.com/Raguram-N/The_Hindu/blob/main/README.md) |
+| **3️⃣ Tik-Tik – Smart Timer Delivery** | Delivery countdown system reducing anxiety and improving trust. | [View](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md) |
+| **4️⃣ Track the Game – Sports Analyzer** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) |
+| **5️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) |
+| **6️⃣ Conscious MB (YouTube)** | Predicts mobile data usage per video quality. | [View](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md) |
+| **7️⃣ Smart Backup Address (Amazon)** | Fallback delivery within 1 km to boost success rate. | [View](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md) |
+| **8️⃣ SDLC – The Story** | Beginner-friendly story of the Software Development Life Cycle. | [View](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md) |
+| **9️⃣ NearMind – Smart Reminder** | GPS-powered reminders triggered by location. | [View](https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md) |
+| **🔟 Agile vs Waterfall – The Story** | Story-based comparison of development models. | [View](https://github.com/Raguram-N/Agile-vs-Waterfall/blob/main/README.md) |
+| **1️⃣1️⃣ Let’s Debug AI** | How AI supports human productivity with human-led decisions. | [View](https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md) |
+| **1️⃣2️⃣ QA sample Work** | Demonstrates usability analysis & functional QA. | [View](https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md) |
+| **1️⃣3️⃣ Power BI – Dashboards** | Converts raw data into business insights. | [View](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md) |
+| **1️⃣4️⃣ A/B Testing – The Story** | Real-life analogy explaining A/B testing. | [View](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md) |
+| **1️⃣5️⃣ UAT – The Story** | How UAT validates business expectations. | [View](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md) |
+| **1️⃣6️⃣ Design Principles** | Ensures clarity, consistency, and visual balance. | [View](https://github.com/Raguram-N/design-principles/blob/main/README.md) |
+| **1️⃣7️⃣ Fundamentals of Architecture** | Introduction to scalable, reliable system architecture. | [View](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md) |
+| **1️⃣8️⃣ Design Principles** | How humans interact with interfaces & usability thinking. | [View](https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md)|
+| **1️⃣9️⃣ All Time Low Pass (Amazon)** | Gamified price drop prediction & rewards. | [View](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md) |
+| **2️⃣0️⃣ Link2Watch (Netflix)** | Elder-friendly link-based streaming system. | [View](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md) |
+| **2️⃣1️⃣ More Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) |
 
----
-
-## 2️⃣ Personalized Keyword Subscription – The Hindu ePaper  
-A personalized news feature that lets readers subscribe to specific keywords and topics — improving engagement and relevance.  
-🔗 https://github.com/Raguram-N/The_Hindu/blob/main/README.md  
-
----
-
-## 3️⃣ Tik-Tik – Smart Timer Delivery (Amazon Last Mile)  
-A transparent delivery countdown system that reduces waiting anxiety and builds trust between customers and delivery partners.  
-🔗 https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md  
-
----
-
-## 4️⃣ Track the Game – Sports Performance Analyzer  
-A data-driven performance tracker helping athletes improve strategy, adaptability, and gameplay.  
-🔗 https://github.com/Raguram-N/Track-The-Game/blob/main/README.md  
-
----
-
-## 5️⃣ Care Partner – Assisted City Travel (Rapido)  
-A multi-stop ride model built for caregivers and seniors — improving comfort, safety, and assisted navigation.  
-🔗 https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md  
-
----
-
-## 6️⃣ Conscious MB – Data-Aware Streaming (YouTube)  
-A feature predicting mobile data usage per video quality to prevent overconsumption.  
-🔗 https://github.com/Raguram-N/Conscious-MB/blob/main/README.md  
-
----
-
-## 7️⃣ Smart Backup Address – Amazon Delivery  
-Fallback delivery to a verified secondary address within 1 km — improving first-attempt delivery success rates.  
-🔗 https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md  
-
----
-
-## 8️⃣ SDLC – The Simple Story  
-A beginner-friendly, story-based explanation of the Software Development Life Cycle.  
-🔗 https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md  
-
----
-
-## 9️⃣ NearMind – Location-Based Smart Reminder App  
-A GPS-powered reminder system that triggers tasks when the user reaches a specific location.  
-🔗 https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md  
-
----
-
-## 🔟 Agile vs Waterfall – A Simple Story  
-A story-driven comparison of Agile and Waterfall using real-world analogies.  
-🔗 https://github.com/Raguram-N/Agile-vs-Waterfall/blob/main/README.md  
-
----
-
-## 1️⃣1️⃣ Let’s Debug AI – Human + AI Collaboration  
-A narrative showing how AI enhances human productivity while keeping decisions human-led.  
-🔗 https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md  
-
----
-
-## 1️⃣2️⃣ My Work as QA – Buggy Car Rating App  
-A demonstration of functional testing, usability analysis, and customer-centric QA thinking.  
-🔗 https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md  
-
----
-
-## 1️⃣3️⃣ Power BI – Data Visualization  
-Interactive dashboards that convert raw datasets into meaningful business insights.  
-🔗 https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md  
-
----
-
-## 1️⃣4️⃣ A/B Testing – The Story  
-A real-life analogy explaining how A/B testing helps optimize design and business decisions.  
-🔗 https://github.com/Raguram-N/A-B-Testing/blob/main/README.md  
-
----
-
-## 1️⃣5️⃣ User Acceptance Testing (UAT) – The Story  
-A story-driven explanation of how UAT ensures a product meets business expectations and real user needs.  
-🔗 https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md  
-
----
-
-## 1️⃣6️⃣ Design Principles – Creativity to Usability  
-A breakdown of UX design principles ensuring clarity, consistency, and visual balance.  
-🔗 https://github.com/Raguram-N/design-principles/blob/main/README.md  
-
----
-
-## 1️⃣7️⃣ Fundamentals of Software Architecture  
-An introduction to architecture pillars that create reliable, scalable systems.  
-🔗 https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md  
-
----
-
-## 1️⃣8️⃣ Principles of Interactive Design  
-A guide explaining how humans interact with interfaces and how good IxD improves usability.  
-🔗 https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md  
-
----
-
-## 1️⃣9️⃣ All Time Low Pass – Gamified Price Protection (Amazon)  
-A gamified price prediction feature rewarding users who correctly predict price drops.  
-🔗 https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md  
-
----
-
-## 2️⃣0️⃣ Link2Watch – Elder-Friendly Streaming (Netflix)  
-A link-based movie sharing system for seniors — “Send a link, watch instantly.”  
-🔗 https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md  
-
----
-
-## 2️⃣1️⃣ More Coming Soon…  
-New product ideas, experiments, and UX case studies are on the way.  
-🔗 https://github.com/Raguram-N/Me/blob/main/README.md
 
 
 
