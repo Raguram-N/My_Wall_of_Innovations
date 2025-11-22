@@ -67,7 +67,7 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 # 🚀 Projects, Case Studies & Product Innovations
 
 ## 1️⃣ Just Click – AI Manual Tester  
-AI-powered testing tool that reads test steps from Word files, runs Selenium automation, captures screenshots on failures, and generates detailed reports — reducing manual QA effort by **70%**.  
+An AI-powered testing engine that automates repetitive QA tasks and reduces manual effort by 70%.  
 🔗 https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md  
 
 ---
