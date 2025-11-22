@@ -85,7 +85,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ## 💬 I’d love to hear your thoughts!  
 Your feedback directly helps me refine my work and create even better tools, designs, and innovations.
 
-> ✨ **Takes less than 1 minute. Your response means a lot!** [here](https://forms.gle/2MKfZXjJSSVYaWAx7).
+> ✨ **Takes less than 1 minute. Your response means a lot!** [Click here](https://forms.gle/2MKfZXjJSSVYaWAx7).
 
 
 ---
