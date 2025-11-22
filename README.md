@@ -121,6 +121,7 @@ This work is protected under **Creative Commons Attribution–NonCommercial–No
 
 ---
 
+
 ## © **Copyright Notice**
 
 © 2025 **RAGURAM NARAYANASWAMY**   
@@ -131,10 +132,26 @@ All rights reserved.
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="thanks.png" width="95%" alt="Requirement Analysis" />
+
+</td>
+<td width="60%" valign="top">
+
 ## ⚠️ **Disclaimer**
 
-This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
-> All trademarks, brand names, and product names belong to their respective owners.
+- This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. 
+
+- They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
+
+> ✨ All trademarks, brand names, and product names belong to their respective owners.
+
+</td>
+  </tr>
+</table>
 
 ---
 
