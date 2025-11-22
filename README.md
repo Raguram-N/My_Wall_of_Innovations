@@ -30,8 +30,16 @@
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
 
+
+<table>
+  <tr>
+    <td>
+      <img src="border banner.png" width="195" height="305" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td style="vertical-align:top; padding-right:10px;">
       
-#### **🧩Skills:**      
+#### **Core Skills:**   
+      
 - 🔍 **Research & Analysis:**
 User Research | Market Insights | Data Interpretation | Behavioral Psychology
 
@@ -39,10 +47,15 @@ User Research | Market Insights | Data Interpretation | Behavioral Psychology
 Wireframing | Journey Mapping | Prototyping | Usability Testing | UX Case Studies
 
 - ⚙️ **Product & Strategy:**
-Product Thinking | Growth Experiments | Problem Solving | Business Impact Analysis
+Product Thinking | Growth Experiments | Problem Solving | Business Analysis
 
 - 🧠 **Tools & Tech:**
 Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
+
+</td>
+  </tr>
+</table>
+
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
