@@ -90,7 +90,11 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 | **1️⃣8️⃣ Design Principles** | How humans interact with interfaces & usability thinking. | [View](https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md)|
 | **1️⃣9️⃣ All Time Low Pass (Amazon)** | Gamified price drop prediction & rewards. | [View](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md) |
 | **2️⃣0️⃣ Link2Watch (Netflix)** | Elder-friendly link-based streaming system. | [View](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md) |
-| **2️⃣1️⃣ More Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) |
+| **2️⃣1️⃣ EduVerse — VR Learning** | Knowledge isn’t just reading, it’s an experience | [View](https://github.com/Raguram-N/kiksarvr-EduVerse/blob/main/README.md) |
+| **2️⃣2️⃣ Trustpaisa — Smart Savings** | bridges the gap between desire and affordability | [View](https://github.com/Raguram-N/Trustpaisa-Smart-Savings/blob/main/README.md) |
+| **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) |
+| **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) |
+
 
 
 
