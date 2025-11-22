@@ -65,14 +65,15 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 <p align="center">
-  <img src="3.png" width="90%" height="350" style="border-radius:10px;" />
+  <img src="3.png" width="80%" height="280" style="border-radius:10px;" />
 </p>
 
-</div>
 
----
+
 
 **Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow together.**
+
+</div>
 
 ---
 
