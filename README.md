@@ -9,7 +9,7 @@
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
-> ✨ **A portfolio that blends Research + UX + Product + QA — proving that I think, design, validate and measure.**
+> ✨ **A portfolio that blends *"Research + UX + Product + QA"* — proving that I think, design, validate and measure.**
 
 <img src="title banner.4.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
 
