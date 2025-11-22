@@ -65,7 +65,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 
 <p align="center">
-  <img src="3.png" width="80%" height="280" style="border-radius:10px;" />
+  <img src="3.png" width="85%" height="280" style="border-radius:10px;" />
 </p>
 
 
@@ -77,11 +77,33 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 ---
 
+## 👤 Crafted By
 
-## ⚠️ **Disclaimer**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td style="vertical-align:top; padding-left:15px;">
 
-This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
-> All trademarks, brand names, and product names belong to their respective owners.
+## 💼 **Raguram Narayanaswamy**
+
+**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
+> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
+> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 🌐 **Let’s Connect**
+
+📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
+📞 **Phone:** +91 88701 80822  
+🔗 **linkedin** https://www.linkedin.com/in/raguram-narayanaswamy/ 
+
 
 ---
 
@@ -101,34 +123,13 @@ All rights reserved.
 
 > Unauthorized copying, distribution, or reproduction of this content, in whole or in part, is strictly prohibited without prior written permission from the author.
 
----
-
-## 👤 Crafted By
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
-    </td>
-    <td style="vertical-align:top; padding-left:15px;">
-
-## 💼 **Raguram Narayanaswamy**
-**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
-> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
-> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
-
-</td>
-  </tr>
-</table>
 
 ---
 
-## 🌐 **Let’s Connect**
+## ⚠️ **Disclaimer**
 
-📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
-📞 **Phone:** +91 88701 80822  
-🔗 **linkedin** https://www.linkedin.com/in/raguram-narayanaswamy/ 
-
+This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
+> All trademarks, brand names, and product names belong to their respective owners.
 
 ---
 
