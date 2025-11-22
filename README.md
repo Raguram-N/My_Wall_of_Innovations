@@ -51,116 +51,140 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 
 ---
 
+# 🚀 Projects, Case Studies & Product Innovations
 
-## 🚀 Projects, Learnings & Case Studies
+## 1️⃣ Just Click – AI Manual Tester  
+🔗 https://github.com/Raguram-N/AI_Manual_Tester  
+AI-powered testing tool that reads test steps from Word files, runs Selenium automation, captures screenshots on failures, and generates detailed reports — reducing manual QA effort by **70%**.
 
-### 1️⃣ [Just Click – AI Manual Tester](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
-> Product Innovation: *An AI-powered tool that reads test steps from Word files, executes Selenium-based tests, captures screenshots on failures, and generates intelligent test reports — reducing manual testing effort by 70%.*
+---
 
+## 2️⃣ Personalized Keyword Subscription – The Hindu ePaper  
+🔗 https://github.com/Raguram-N/The_Hindu  
+A personalized news feature that lets readers subscribe to specific keywords and topics — improving engagement and relevance.
 
-### 2️⃣ [Personalized Keyword Subscription – The Hindu e-Newspaper](https://github.com/Raguram-N/The_Hindu/blob/main/README.md)
-> UX Innovation for Business Growth: *A smart newspaper personalization feature that lets readers subscribe to their favorite keywords and topics — making news consumption more relevant and time-efficient.*
+---
 
+## 3️⃣ Tik-Tik – Smart Timer Delivery (Amazon Last Mile)  
+🔗 https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery  
+A transparent delivery countdown system that reduces waiting anxiety and improves customer–delivery partner trust.
 
+---
 
-### 3️⃣ [Tik-Tik – Smart Timer Delivery System (Amazon last mile)](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md)
-> UX Innovation for Business Growth: *A delivery timer system that provides transparent countdown tracking between customers and delivery partners — ensuring trust, accuracy, and reduced waiting anxiety.*
+## 4️⃣ Track the Game – Sports Performance Analyzer  
+🔗 https://github.com/Raguram-N/Track-The-Game  
+A data-driven performance tracker that helps athletes improve strategy, adaptability, and overall gameplay.
 
+---
 
+## 5️⃣ Care Partner – Assisted City Travel (Rapido)  
+🔗 https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study  
+A multi-stop ride model designed for caregivers and seniors — improving comfort, safety, and assisted navigation.
 
-### 4️⃣ [Track the Game – Analyze, Adapt, Achieve → Dominate](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md)
->  Product Innovation: *A data-driven sports performance tracker that analyzes player metrics to enhance strategy, adaptability, and competitive growth.*
+---
 
+## 6️⃣ Conscious MB – Data-Aware Streaming (YouTube)  
+🔗 https://github.com/Raguram-N/Conscious-MB  
+A data prediction feature estimating mobile data usage per video quality to prevent overconsumption.
 
+---
 
-### 5️⃣ [Care Partner – Seamless & Safe City Travel (Rapido)](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md)
-> UX Innovation for Business Growth: *A multi-stop ride management system focusing on safety, comfort, and assisted navigation — designed for caregivers and senior-friendly mobility.*
+## 7️⃣ Smart Backup Address – Amazon Delivery  
+🔗 https://github.com/Raguram-N/Smart-Backup-Address-Delivery  
+Enables fallback delivery to a verified secondary address within 1 km — improving first-attempt success.
 
+---
 
+## 8️⃣ SDLC – The Story  
+🔗 https://github.com/Raguram-N/SDLC-The-Simple-Story  
+A simple, story-based explanation of the Software Development Life Cycle.
 
-### 6️⃣ [Conscious MB – Data-Aware Video Streaming (Youtube)](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md)
-> UX Innovation for Business Growth: *A YouTube feature concept that predicts mobile data usage per video quality and enables users to reserve data for emergencies — promoting mindful digital consumption.*
+---
 
+## 9️⃣ NearMind – Location-Based Smart Reminder App  
+🔗 https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-  
+A GPS-powered reminder system that triggers tasks when the user reaches the required location.
 
+---
 
-### 7️⃣ [Smart Backup Address – For Delivery (Amazon last mile)](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md)
-> UX Innovation for Business Growth: *A UX concept that enables smart fallback delivery to a nearby secondary address (within a 1 km radius) — ensuring reliability when the primary recipient is unavailable.*
+## 🔟 Agile vs Waterfall – A Simple Story  
+🔗 https://github.com/Raguram-N/Agile-vs-Waterfall  
+A story-driven comparison of Agile and Waterfall using a real-world analogy.
 
+---
 
+## 1️⃣1️⃣ Let’s Debug AI – Human + AI Collaboration  
+🔗 https://github.com/Raguram-N/Lets-Debug-AI  
+A narrative showing how AI boosts human efficiency while keeping decisions human-led.
 
-### 8️⃣ [Software Development Life Cycle (SDLC) - The story](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
-> Learning Series: *A story-based guide to software Life development cycle, making planning, creation, testing, and delivery concepts easy to grasp. “A process of serving the customer’s hunger with satisfaction, care, and quality.”*
+---
 
+## 1️⃣2️⃣ My Work as QA – Buggy Car Rating App  
+🔗 https://github.com/Raguram-N/My_QA_Sample_Project  
+A demonstration of functional testing, usability issues, and customer-focused QA thinking.
 
+---
 
-### 9️⃣ [NearMind - Location Based Smart Reminder App](https://github.com/Raguram-N/NearMind-Location-Based-Smart-Reminder-App-/blob/main/README.md)
-> Product Innovation: *A mobile-first, GPS-powered smart reminder app that notifies users exactly when they reach the location of their task — ideal for groceries, medicines, exams, office errands, and personal pickups.*
+## 1️⃣3️⃣ Power BI – Data Visualization  
+🔗 https://github.com/Raguram-N/Power-BI-analysis  
+Interactive dashboards that turn raw datasets into meaningful insights.
 
+---
 
-### 1️⃣0️⃣ [Software Development Life Cycle (SDLC) methodologies - Agile vs Waterfall](https://github.com/Raguram-N/Agile-vs-Waterfall/blob/main/README.md)
-> Learning Series: *An intuitive story-driven explanation of Agile and Waterfall SDLC methodologies, using a real-world car journey analogy to simplify software development concepts.*
+## 1️⃣4️⃣ A/B Testing – The Story  
+🔗 https://github.com/Raguram-N/A-B-Testing  
+A real-life analogy describing how A/B testing helps businesses optimize designs and decisions.
 
+---
 
+## 1️⃣5️⃣ User Acceptance Testing (UAT) – The Story  
+🔗 https://github.com/Raguram-N/User-Acceptance-Testing-UAT-  
+A story-driven explanation of how UAT ensures a product meets real user and business needs.
 
-### 1️⃣1️⃣ [Lets Debug AI - Artificial intelligence enabling human potential](https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md)
-> Learning Series: *A story-driven scenario demonstrating how AI can assist humans in achieving their goals, while human skill and decision-making remain essential. “AI enables, humans excel.”*
+---
 
+## 1️⃣6️⃣ Design Principles – From Creativity to Usability  
+🔗 https://github.com/Raguram-N/design-principles  
+A breakdown of UX design principles that ensure clarity, consistency, and visual balance.
 
+---
 
-### 1️⃣2️⃣ [My work as QA - Buggy Car Rating Web Application](https://github.com/Raguram-N/My_QA_Sample_Project/blob/main/README.md)
-> Skill Showcase: *This document showcases my software testing expertise. The purpose of this testing goes beyond identifying functional bugs, reflecting a customer-centric approach to quality assurance.*
+## 1️⃣7️⃣ Fundamentals of Software Architecture  
+🔗 https://github.com/Raguram-N/-Fundamentals-of-architecture  
+An introduction to architecture pillars that enable stable and scalable software systems.
 
+---
 
+## 1️⃣8️⃣ Principles of Interactive Design  
+🔗 https://github.com/Raguram-N/Principles-of-Interactive-Design  
+A guide explaining how users interact with digital interfaces and how good IxD improves usability.
 
-### 1️⃣3️⃣ [Power BI - Data Visualization](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
-> Skill Showcase: *This project highlights my business analysis and data visualization skills using Power BI.
-I transformed raw datasets into insightful, interactive dashboards, enabling data-driven decision-making.*
+---
 
+## 1️⃣9️⃣ All Time Low Pass – Gamified Price Protection (Amazon)  
+🔗 https://github.com/Raguram-N/All-Time-Low-Pass-  
+A gamified price prediction feature that rewards users for predicting price drops.
 
-### 1️⃣4️⃣ [A/B Testing - The story](https://github.com/Raguram-N/A-B-Testing/blob/main/README.md)
-> Learning Series: *A practical demonstration of A/B testing concepts through a real-life analogy. This project explains how businesses test two versions of a product to determine which performs better — optimizing user experience and driving decisions.*
+---
 
+## 2️⃣0️⃣ Link2Watch – Elder-Friendly Streaming (Netflix)  
+🔗 https://github.com/Raguram-N/Smart-play---For-Elders  
+A link-based movie sharing system for seniors — “Send a link, watch instantly.”
 
-### 1️⃣5️⃣ [User Acceptance Testing (UAT) – The Story](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md)
-> Learning Series: *A story-driven explanation of User Acceptance Testing (UAT). This project demonstrates how UAT ensures that software meets business requirements and end-user expectations, validating the final outcome before deployment.*
+---
 
-
-### 1️⃣6️⃣ [Design principles - Turning Creativity into Usability](https://github.com/Raguram-N/design-principles/blob/main/README.md)
-> Learning Series: *Design principles are the rules of thumb that make interfaces visually appealing, easy to navigate, and enjoyable to use — without confusing the user.*
-
-
-### 1️⃣7️⃣ [Fundamentals of Architecture - The Pillars of Software system](https://github.com/Raguram-N/-Fundamentals-of-architecture/blob/main/README.md)
-> Learning Series: *Understanding the fundamentals of Architecture provides the framework and discipline that transform code into a stable, scalable, and maintainable product.*
-
-
-### 1️⃣8️⃣ [Principles of Interactive Design - how users engage with digital interfaces](https://github.com/Raguram-N/Principles-of-Interactive-Design/blob/main/README.md)
-> Learning Series: *Interactive Design (IxD) focuses on creating the relationship between a user and a digital product, making sure that interactions with apps, websites, or dashboards are intuitive, efficient, and enjoyable.*
-
-
-### 1️⃣9️⃣ [All Time Low Pass - Predict, Claim, Save (Amazon e-Commerce)](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
-> UX Innovation for Business Growth: *A gamified price protection concept that rewards users for predicting price drops — turning everyday shopping into an engaging, loyalty-driven experience.* 
-
-
-### 2️⃣0️⃣ [Link2Watch – Friendly Streaming (Netflix)](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md)
->  UX Innovation for Business Growth: *Innovation that bridges the tech gap for elderly parents, allowing family members to send a movie via link that plays instantly on TV — “Send a link, share a moment""*
-
-
-### 2️⃣1️⃣ [Coming Soon… ⏳](https://github.com/Raguram-N/Me/blob/main/README.md)
-> *More in progress — stay tuned!*
+## 2️⃣1️⃣ Coming Soon…  
+🔗 https://github.com/Raguram-N/Me/blob/main/README.md <br>
+More projects and innovations are in progress. ⏳
 
 
 <p align="center">
+  <img src="3.png" width="100%" height="380" style="border-radius:10px;" />
+</p>
 
 
-  
-  <img src="3.png" width="100%" height="350" style="border-radius:10px;" alt="Raguram's Photo" />
-</p
 
-**Thank you for visiting! 🙂<br>
-I truly appreciate your time and interest.<br>
-I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow.**
-
- 
+**Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow together.**
 
 
 ---
