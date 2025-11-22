@@ -1,44 +1,19 @@
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
-    </td>
-    <td style="vertical-align:top; padding-left:15px;">
-
-# 💼 **Raguram Narayanaswamy**
-**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
-> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
-> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
----
-📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
-📞 **Phone:** +91 88701 80822  
-🎓 **Education:** B.E - EIE (2015–2019)  
-🏛️ **College:** St. Joseph's College of Engineering, Chennai  
-📍 **Location:** Chennai, Tamil Nadu, India  
-
-</td>
-  </tr>
-</table>
-
----
  <p align="center">
   <img src="wall of innovation.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
 </p
 
+</td>
+  </tr>
 
+--- 
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, problem-solving, knowledge sharing and product thinking.
 
-<table>
-  <tr>
-    <td>
-      <img src="border banner.png" width="165" height="240" style="border-radius:10px;" alt="Raguram's Photo" />
-    </td>
-    <td style="vertical-align:top; padding-right:10px;">
+<img src="title banner.4.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
+
        
 ### **Core Skills:**   
 
----
 
 - 🔍 **Research & Analysis:**
 User Research | Market Insights | Data Interpretation | Behavioral Psychology
@@ -50,10 +25,6 @@ Product Thinking | Growth Experiments | Problem Solving | Business Analysis
 Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Systems
 
 
-</td>
-  </tr>
-</table>
-
 
 <p align="center">
      <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
@@ -63,7 +34,7 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 ---
 <div align="center">
   
-# ✨Projects, Case Studies & Product Innovations
+ <img src="title banner.1.png" width="100%" height="200" style="border-radius:10px;" alt="Raguram's Photo" />
 
   
 | Project | Description | 🔗Link |
@@ -94,9 +65,6 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 | **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) |
 
 
-
-
-
 <p align="center">
   <img src="3.png" width="90%" height="350" style="border-radius:10px;" />
 </p>
@@ -106,7 +74,6 @@ Excel | Power BI | Selenium | Figma | Jira | TestRail | A/B Testing | Design Sys
 ---
 
 **Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can contribute, learn, and grow together.**
-
 
 ---
 
@@ -132,8 +99,39 @@ This work is protected under **Creative Commons Attribution–NonCommercial–No
 © 2025 **RAGURAM NARAYANASWAMY**   
 All rights reserved.
 
-
 > Unauthorized copying, distribution, or reproduction of this content, in whole or in part, is strictly prohibited without prior written permission from the author.
 
+---
+
+# Author
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
+    </td>
+    <td style="vertical-align:top; padding-left:15px;">
+
+## 💼 **Raguram Narayanaswamy**
+**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
+> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
+> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
+
+</td>
+  </tr>
+</table>
+
+---
+
+## **Contact**
+
+📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
+📞 **Phone:** +91 88701 80822  
+🔗 **linkedin** https://www.linkedin.com/in/raguram-narayanaswamy/ 
 
 
+---
+
+<div align="center">
+ <img src="title banner.3.png" width="60%" height="120" style="border-radius:10px;" alt="Raguram's Photo" />
+</div>
