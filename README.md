@@ -102,7 +102,7 @@ Your feedback directly helps me refine my work and create even better tools, des
 ## 💼 **Raguram Narayanaswamy**
 
 **Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
-> - **2+ years of experience at Amazon, specializing in software testing & bug validation.** 
+> - **2+ years of experience at Amazon, specializing in feature testing, product validation & improvement.** 
 > - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
 
 </td>
