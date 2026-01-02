@@ -42,11 +42,11 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
   
 | 💼Project | 📂Description | 🔗Link | 🧑‍💻prototype
 |--------|-------------|------|------|
-| **1️⃣ Just Click – AI Manual Tester** | AI-powered testing engine that reduces manual effort by **70%**. | [View](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md) | [Prototype](https://raguram-n.github.io/AI_Manual_Tester/)
+| **1️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Multi-Stop-Ride---case-study/)
 | **2️⃣ Keyword Subscription – epaper** | Lets readers subscribe to keywords for personalized news. | [View](https://github.com/Raguram-N/The_Hindu/blob/main/README.md) | [Prototype](https://raguram-n.github.io/The_Hindu/)
 | **3️⃣ Tik-Tik – Smart Timer Delivery** | Delivery countdown system reducing anxiety and improving trust. | [View](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Tik-Tik_-_Smart_Delivery/)
 | **4️⃣ Track the Game – Sports Analyzer** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Track-The-Game/)
-| **5️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Multi-Stop-Ride---case-study/)
+| **5️⃣ Just Click – AI Manual Tester** | AI-powered testing engine that reduces manual effort by **70%**. | [View](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md) | [Prototype](https://raguram-n.github.io/AI_Manual_Tester/)
 | **6️⃣ Conscious MB (YouTube)** | Predicts mobile data usage per video quality. | [View](https://github.com/Raguram-N/Conscious-MB/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Conscious-MB/)
 | **7️⃣ Smart Backup Address (Amazon)** | Fallback delivery within 1 km to boost success rate. | [View](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Backup-Address-Delivery/)
 | **8️⃣ SDLC – The Story** | Beginner-friendly story of the Software Development Life Cycle. | [View](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md) | [NA](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
