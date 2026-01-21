@@ -5,15 +5,11 @@
 </td>
   </tr>
 
---- 
+
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, product thinking, problem-solving and knowledge sharing.
 
 > ✨ **A portfolio that blends *"Research + UX + Product + QA"* — demonstrating how I think, design, validate, and measure impact.**
-
-<img src="title banner.4.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
-
-
 
 --- 
 
@@ -38,6 +34,8 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 <div align="center">
   
  <img src="title banner.1.png" width="100%" height="200" style="border-radius:10px;" alt="Raguram's Photo" />
+
+ </div>
 
   
 | 💼Project | 📂Description | 🔗Link | 🧑‍💻prototype
@@ -69,15 +67,10 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 ---
 
-<p align="center">
-  <img src="3.png" width="85%" height="280" style="border-radius:10px;" />
-</p>
-
 
 
 **Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can learn, contribute, and grow together.**
 
-</div>
 
 ---
 
@@ -85,7 +78,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ## 💬 I’d love to hear your thoughts!  
 Your feedback directly helps me refine my work and create even better tools, designs, and innovations.
 
-> ✨ **Takes less than 1 minute. Your response means a lot!** [Click here](https://forms.gle/2MKfZXjJSSVYaWAx7).
+>✨ **Takes less than 1 minute. Your response means a lot!** [Click here](https://forms.gle/2MKfZXjJSSVYaWAx7).
 
 
 ---
@@ -140,15 +133,6 @@ All rights reserved.
 
 ---
 
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="thanks.png" width="95%" alt="Requirement Analysis" />
-
-</td>
-<td width="60%" valign="top">
-
 ## ⚠️ **Disclaimer**
 
 - This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. 
@@ -157,12 +141,4 @@ All rights reserved.
 
 > ✨ All trademarks, brand names, and product names belong to their respective owners.
 
-</td>
-  </tr>
-</table>
 
----
-
-<div align="center">
- <img src="title banner.3.png" width="60%" height="120" style="border-radius:10px;" alt="Raguram's Photo" />
-</div>
