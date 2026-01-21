@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="wall of innovation.png" width="100%" height="220" style="border-radius:10px;" alt="Raguram's Photo" />
+  <img src="wall of innovation.png" width="90%" height="150" style="border-radius:10px;" alt="Raguram's Photo" />
 </p
 
 </td>
@@ -29,7 +29,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 ---
 <div align="center">
   
- <img src="Banner.png" width="70%" height="180" style="border-radius:10px;" alt="Raguram's Photo" />
+ <img src="Banner.png" width="80%" height="185" style="border-radius:10px;" alt="Raguram's Photo" />
 
  </div>
 
