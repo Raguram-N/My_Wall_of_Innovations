@@ -24,16 +24,12 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | ⚙️ **Product & Strategy** | Product Thinking • Growth Experiments • Problem Solving • Business Analysis |
 | 🧠 **Tools & Tech** | Excel • Power BI • Selenium • Figma • Jira • TestRail • A/B Testing • Design Systems |
 
-
-<p align="center">
-     <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
-       </p>
 </div>
 
 ---
 <div align="center">
   
- <img src="title banner.1.png" width="100%" height="200" style="border-radius:10px;" alt="Raguram's Photo" />
+ <img src="Banner.png" width="70%" height="180" style="border-radius:10px;" alt="Raguram's Photo" />
 
  </div>
 
@@ -64,6 +60,12 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣2️⃣ Track the Game – Sports Analyzer** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Track-The-Game/)
 | **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) | [Prototype](https://raguram-n.github.io/DriveXR/)
 | **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) | [NA](https://github.com/Raguram-N/Me/blob/main/README.md)
+
+
+<p align="center">
+     <img src="Flow.1.png" width="95%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+       </p>
+</div>
 
 ---
 
