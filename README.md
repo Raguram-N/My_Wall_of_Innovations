@@ -50,5 +50,9 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 
 <p align="center">
 
+
+---
+
+
 **Disclaimer - This repository contains independent product concepts and prototypes created for educational and portfolio purposes only. All trademarks and brand names belong to their respective owners.*
 
