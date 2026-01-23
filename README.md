@@ -8,7 +8,7 @@
 
 
 
-A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, product thinking, problem-solving and knowledge sharing.
+A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, product thinking, problem-solving and knowledge sharing. 
 
 ---
 <div align="center">
@@ -45,11 +45,13 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) | [NA](https://github.com/Raguram-N/Me/blob/main/README.md)
 
 
-
-
 <p align="center">
-     <img src="Flow.1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+<img src="Flow.1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
        </p>
 </div>
 
+<p align="right">
 
+---
+
+*Disclaimer - This repository contains independent product concepts and prototypes created for educational and portfolio purposes only. It is not affiliated with or endorsed by any third-party companies mentioned. All trademarks and brand names belong to their respective owners.
