@@ -42,11 +42,10 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣1️⃣ Link2Watch (Netflix)** | Elder-friendly link-based streaming system. | [View](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-play---For-Elders/)
 | **2️⃣2️⃣ Track the Game – Sports Analyzer** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Track-The-Game/)
 | **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) | [Prototype](https://raguram-n.github.io/DriveXR/)
-| **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) | [NA](https://github.com/Raguram-N/Me/blob/main/README.md)
 
 
 <p align="center">
-<img src="Flow.1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
+<img src="Flow.1.png" width="80%" height="240" style="border-radius:10px;" alt="Raguram's Photo" />
        </p>
 </div>
 
