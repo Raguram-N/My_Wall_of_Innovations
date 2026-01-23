@@ -1,5 +1,6 @@
  <p align="center">
-  <img src="wall of innovation.png" width="100%" height="150" style="border-radius:10px;" alt="Raguram's Photo" />
+  <img src="Banner.png" width="65%" height="185" style="border-radius:10px;" alt="Raguram's Photo" />
+
 </p
 
 </td>
@@ -9,32 +10,14 @@
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, product thinking, problem-solving and knowledge sharing.
 
-> ✨ **A portfolio that blends *"Research + UX + Product + QA"* — demonstrating how I think, design, validate, and measure impact.**
-
---- 
-
-<div align="center">
-       
-## **🧩 Core Skills:**   
-
-| **Category** | **Skills** |
-|--------------|------------|
-| 🔍 **Research & Analysis** | User Research • Market Insights • Data Interpretation • Behavioral Psychology |
-| 🎨 **Design & UX** | Wireframing • Journey Mapping • Prototyping • Usability Testing • UX Case Studies |
-| ⚙️ **Product & Strategy** | Product Thinking • Growth Experiments • Problem Solving • Business Analysis |
-| 🧠 **Tools & Tech** | Excel • Power BI • Selenium • Figma • Jira • TestRail • A/B Testing • Design Systems |
-
-</div>
-
 ---
 <div align="center">
   
- <img src="Banner.png" width="60%" height="185" style="border-radius:10px;" alt="Raguram's Photo" />
 
  </div>
 
   
-| 💼Project | 📂Description | 🔗Link | 🧑‍💻prototype
+| Project | Description | Link | prototype
 |--------|-------------|------|------|
 | **1️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Multi-Stop-Ride---case-study/)
 | **2️⃣ Trustpaisa — Smart Savings** | bridges the gap between desire and affordability | [View](https://github.com/Raguram-N/Trustpaisa-Smart-Savings/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Trustpaisa-Smart-Savings/)
@@ -62,85 +45,11 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣4️⃣ Coming Soon…** | New product ideas and innovations on the way! | [View](https://github.com/Raguram-N/Me/blob/main/README.md) | [NA](https://github.com/Raguram-N/Me/blob/main/README.md)
 
 
+
+
 <p align="center">
      <img src="Flow.1.png" width="85%" height="260" style="border-radius:10px;" alt="Raguram's Photo" />
        </p>
 </div>
-
----
-
-
-
-**Thank you for visiting! 🙂<br> I truly appreciate your time and interest.<br> I’m currently open to work and excited to explore new opportunities where I can learn, contribute, and grow together.**
-
-
----
-
-
-## 💬 I’d love to hear your thoughts!  
-Your feedback directly helps me refine my work and create even better tools, designs, and innovations.
-
->✨ **Takes less than 1 minute. Your response means a lot!** [Click here](https://forms.gle/2MKfZXjJSSVYaWAx7).
-
-
----
-
-## 👤 Crafted By
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/Raguram-N/Hello/blob/main/Pic__.jpg" width="175" height="385" style="border-radius:10px;" alt="Raguram's Photo" />
-    </td>
-    <td style="vertical-align:top; padding-left:15px;">
-
-## 💼 **Raguram Narayanaswamy**
-
-**Product Management | Business Analysis | UX Research | Product Design | User Acceptance Testing**                                         
-> - **2+ years of experience at Amazon, specializing in feature validation & improvement.** 
-> - **1+ year of freelance experience in Product Design, UX Research, and Business Growth Strategy.**
-
-</td>
-  </tr>
-</table>
-
----
-
-## 🌐 **Let’s Connect & Collaborate**
-
-📧 **Email:** [raguramcdm@gmail.com](mailto:raguramcdm@gmail.com)                                
-📞 **Phone:** +91 88701 80822  
-🔗 **linkedin** https://www.linkedin.com/in/raguram-narayanaswamy/ 
-
-
----
-
-## ⚖️ **License**
-
-This work is protected under **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.  
-
-> You may **view and share** this repository **with proper credit**, but **commercial use, modification, or redistribution** are **not permitted**.  
-🔗 [View Full License](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
----
-
-
-## © **Copyright Notice**
-
-© 2025 **RAGURAM NARAYANASWAMY**   
-All rights reserved.
-
-> Unauthorized copying, distribution, or reproduction of this content, in whole or in part, is strictly prohibited without prior written permission from the author.
-
-
----
-
-## ⚠️ **Disclaimer**
-
-- This repository and its contents represent **independent product concepts, UX research, UX enhancements and prototypes** created by **Raguram Narayanaswamy**. These works are intended solely for **educational, portfolio, and demonstration purposes**. 
-
-- They are **not affiliated with, endorsed by, or sponsored by any third-party companies or organizations** mentioned within (e.g., YouTube, Rapido, The Hindu, etc.).  
-
-> ✨ All trademarks, brand names, and product names belong to their respective owners.
 
 
