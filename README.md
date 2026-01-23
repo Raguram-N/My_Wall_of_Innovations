@@ -6,15 +6,12 @@
 </td>
   </tr>
 
-
+ <p align="center">
 
 A curated showcase of my product innovations, UX enhancements, and creative solutions designed to solve real-world problems. With 2+ years of experience at Amazon and understanding of sociology and psychology, this repository highlights prototypes, case studies, and hands-on projects that demonstrate my approach to user-centered design, product thinking, problem-solving and knowledge sharing. 
 
 ---
 <div align="center">
-  
-
- </div>
 
   
 | Project | Description | Link | prototype
@@ -43,14 +40,14 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣2️⃣ Track the Game – Sports Analyzer** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Track-The-Game/)
 | **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) | [Prototype](https://raguram-n.github.io/DriveXR/)
 
+ </div>
+
 
 <p align="center">
 <img src="Flow.1.png" width="80%" height="240" style="border-radius:10px;" alt="Raguram's Photo" />
-       </p>
-</div>
+    
 
-<p align="right">
-
+<p align="center">
 
 **Disclaimer - This repository contains independent product concepts and prototypes created for educational and portfolio purposes only. All trademarks and brand names belong to their respective owners.*
 
