@@ -1,7 +1,7 @@
  <p align="center">
   <img src="Banner.png" width="65%" height="185" style="border-radius:10px;" alt="Raguram's Photo" />
 
-</p
+</p>
 
 </td>
   </tr>
