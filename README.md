@@ -39,7 +39,7 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
 | **2️⃣1️⃣ Link2Watch** | Elder-friendly link-based streaming system. | [View](https://github.com/Raguram-N/Smart-play---For-Elders/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-play---For-Elders/)
 | **2️⃣2️⃣ Track the Game** | Data-driven performance tracker for athletes. | [View](https://github.com/Raguram-N/Track-The-Game/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Track-The-Game/)
 | **2️⃣3️⃣ DriveXR — driver training** | Safe drivers aren’t born on roads — they’re trained in experiences | [View](https://github.com/Raguram-N/DriveXR/blob/main/README.md) | [Prototype](https://raguram-n.github.io/DriveXR/)
-| **2️⃣4️⃣ Attention-Verified Ads** | Replaces impression-based ads with verified human attention ads. | [View](https://github.com/Raguram-N/Attention-Verified-Ads/blob/main/README.md) | [NA](https://github.com/Raguram-N/Attention-Verified-Ads/blob/main/README.md) |
+| **2️⃣4️⃣ Attention-Verified Ads** | Replaces impression-based ads with verified human attention ads. | [View](https://github.com/Raguram-N/Attention-Verified-Ads/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Attention-Verified-Ads/) |
 
  </div>
 
