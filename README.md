@@ -16,11 +16,11 @@ A curated showcase of my product innovations, UX enhancements, and creative solu
   
 | Project | Description | Link | prototype
 |--------|-------------|------|------|
-| **1️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Multi-Stop-Ride---case-study/)
+| **1️⃣ All Time Low Pass** | Gamified price drop prediction & rewards. | [View](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md) | [NA](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
 | **2️⃣ Smart Backup Address** | Fallback delivery within 1 km to boost success rate. | [View](https://github.com/Raguram-N/Smart-Backup-Address-Delivery/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Backup-Address-Delivery/)
 | **3️⃣ SDLC – The Story** | Beginner-friendly story of the Software Development Life Cycle. | [View](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md) | [NA](https://github.com/Raguram-N/SDLC-The-Simple-Story/blob/main/README.md)
 | **4️⃣ Tik-Tik – Smart Timer** | Delivery countdown system reducing anxiety and improving trust. | [View](https://github.com/Raguram-N/Tik-Tik_-_Smart_Delivery/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Tik-Tik_-_Smart_Delivery/)
-| **5️⃣ All Time Low Pass** | Gamified price drop prediction & rewards. | [View](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md) | [NA](https://github.com/Raguram-N/All-Time-Low-Pass-/blob/main/README.md)
+| **5️⃣ Care Partner (Rapido)** | Multi-stop ride model for seniors & caregivers. | [View](https://github.com/Raguram-N/Smart-Multi-Stop-Ride---case-study/blob/main/README.md) | [Prototype](https://raguram-n.github.io/Smart-Multi-Stop-Ride---case-study/)
 | **6️⃣ Let’s Debug AI** | How AI supports human productivity with human-led decisions. | [View](https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md) | [NA](https://github.com/Raguram-N/Lets-Debug-AI/blob/main/README.md)
 | **7️⃣ Power BI – Dashboards** | Converts raw data into business insights. | [View](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md) | [NA](https://github.com/Raguram-N/Power-BI-analysis/blob/main/README.md)
 | **8️⃣ UAT – The Story** | How UAT validates business expectations. | [View](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md) | [NA](https://github.com/Raguram-N/User-Acceptance-Testing-UAT-/blob/main/README.md)
